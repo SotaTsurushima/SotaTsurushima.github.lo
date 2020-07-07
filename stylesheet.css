@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  position: fixed;
+  z-index: 10;
+}
+
+.bar{
+  float: right;
+}
+
+.header li {
+  list-style: none;
+  float: left;
+  padding-right: 10px;
+  font-family:sans-serif ;
+  font-size: 15px;
+  background: transparent;
+  margin-left: 5px;
+}
+
+.top-pic {
+  float: left;
+}
+
+.main {
+  width: 100%;
+  text-align: center;
+}
+
+.concept h1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.dialog {
+  text-align: left;
+}
+
+.greeting {
+  text-align: center;
+}
+
+.detail a {
+  text-align: center;
+  border: 3px solid black;
+}
+
+h1 span {
+  font-size: 70%;
+}
+
+.donuts {
+  display: block;
+  margin: 0 auto;
+}
+  
+.more-detail {
+  border: 2px solid #7d7d7d;
+  background-color: #fff;
+  color: #000;
+}
+
+.product-list {
+  padding: 100px 0;
+}
+
+.product-list h1 {
+  text-align: center;
+}
+
+.product-list article {
+  text-align: center;
+}
+
+.desserts .box {
+  width: 50%;
+  margin: 0 auto; 
+}
+
+.desserts img { 
+  padding:30px 20px 30px 0;
+}
+
+p.btn a {
+    display: block;
+    width: 185px;
+    border: 2px solid #7d7d7d;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.news h1 {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.news .fb{
+  border: 1px solid #ede9da;
+  margin-bottom: 30px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.shop {
+  float: left;
+}
+
+.shop th {
+  padding: 12px 0;
+}
+
+.shop h1 h2 {
+  text-align: center;
+}
+
+.wrapper {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.sns {
+  text-align: right;
+}
+
+.copyright {
+  text-align: center;
+}
